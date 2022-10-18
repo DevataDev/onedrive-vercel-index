@@ -57,7 +57,7 @@ module.exports = {
     },
     {
       name: 'Discord',
-      link: 'DevataDev#3716',
+      link: 'https://discord.com/users/1006363124091322419',
     },
   ],
 
